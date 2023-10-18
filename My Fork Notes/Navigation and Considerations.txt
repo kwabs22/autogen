@@ -1,0 +1,15 @@
+What are the differences between this and
+Code Interpreter
+Open Interpreter
+Simulacra paper
+E2B dev
+HuggingGPT and Huggingface Agents
+
+Can be run in Codespaces!!!!!!!!
+
+
+The Main setting to follow are:
+
+
+
+
